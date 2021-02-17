@@ -4,7 +4,7 @@
 <h1 style="font-family: roboto;" align='center'>
   <img src='https://img.shields.io/static/v1?label=status&message=Development&color=ffd700&style=for-the-badge&logo=Aiqfome'></img>
   <img src='https://img.shields.io/static/v1?label=Evolving&message=Always&color=4169E1&style=for-the-badge&logo=JavaScript'></img>
-  <img src='https://img.shields.io/static/v1?label=Mentoring&message=2.0&color=2E8B57&style=for-the-badge&logo=Twoo'></img>
+  <img src='https://img.shields.io/static/v1?label=Mentoring&message=1.0&color=2E8B57&style=for-the-badge&logo=Twoo'></img>
 </h1>
 
 ### :pushpin: Objective
